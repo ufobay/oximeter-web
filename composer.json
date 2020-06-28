@@ -1,0 +1,7 @@
+{
+    "name": "vnzh/oximeter",
+    "description": "Web server for Oximeter",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
